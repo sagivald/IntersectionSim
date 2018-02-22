@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 1cf0481e3203e594a8826552b05235ee
+timeCreated: 1518998166
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: amber_lights
+    100002: crossing_man_light
+    100004: crossing_man_light_2
+    100006: green_lights
+    100008: lamp_post
+    100010: lights_shades
+    100012: red_lights
+    100014: //RootNode
+    100016: amber_lights_001
+    100018: amber_lights_002
+    100020: green_lights_001
+    100022: green_lights_002
+    100024: red_lights_001
+    100026: red_lights_002
+    400000: amber_lights
+    400002: crossing_man_light
+    400004: crossing_man_light_2
+    400006: green_lights
+    400008: lamp_post
+    400010: lights_shades
+    400012: red_lights
+    400014: //RootNode
+    400016: amber_lights_001
+    400018: amber_lights_002
+    400020: green_lights_001
+    400022: green_lights_002
+    400024: red_lights_001
+    400026: red_lights_002
+    2100000: amber_light
+    2100002: black
+    2100004: red_lights
+    2100006: green_light
+    2100008: amber_light_001
+    2100010: red_lights_001
+    2100012: green_light_001
+    2300000: amber_lights
+    2300002: crossing_man_light
+    2300004: crossing_man_light_2
+    2300006: green_lights
+    2300008: lamp_post
+    2300010: lights_shades
+    2300012: red_lights
+    2300014: amber_lights_001
+    2300016: amber_lights_002
+    2300018: green_lights_001
+    2300020: green_lights_002
+    2300022: red_lights_001
+    2300024: red_lights_002
+    3300000: amber_lights
+    3300002: crossing_man_light
+    3300004: crossing_man_light_2
+    3300006: green_lights
+    3300008: lamp_post
+    3300010: lights_shades
+    3300012: red_lights
+    3300014: amber_lights_001
+    3300016: amber_lights_002
+    3300018: green_lights_001
+    3300020: green_lights_002
+    3300022: red_lights_001
+    3300024: red_lights_002
+    4300000: amber_lights
+    4300002: lights_shades
+    4300004: red_lights
+    4300006: crossing_man_light_2
+    4300008: crossing_man_light
+    4300010: green_lights
+    4300012: lamp_post
+    4300014: green_lights_002
+    4300016: amber_lights_002
+    4300018: red_lights_002
+    4300020: green_lights_001
+    4300022: red_lights_001
+    4300024: amber_lights_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
